@@ -1,7 +1,3 @@
-//YouTube: Aslam Hossain, https://www.youtube.com/channel/UCdaQfJEKvpoAPIzQNwFGlHw
-//Facebook Page: https://www.facebook.com/aslamhossain3852
-//For Any Help, Feel Free to knock me through what's App: 01877543825
-
 #include <SoftwareSerial.h>
 SoftwareSerial btSerial(2, 3);  // RX | TX
 
