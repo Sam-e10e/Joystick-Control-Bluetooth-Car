@@ -1,7 +1,4 @@
-//YouTube: Aslam Hossain, https://www.youtube.com/channel/UCdaQfJEKvpoAPIzQNwFGlHw
-//Facebook Page: https://www.facebook.com/aslamhossain3852
-//For Any Help, Feel Free to knock me through what's App: 01877543825
-
+//github=https://github.com/Sam2152?tab=repositories
 
 #include<SoftwareSerial.h>
 
